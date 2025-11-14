@@ -54,8 +54,7 @@ cd Microsoft_automation
 
 ## 📝 Configurazione file
 
-- **paths.txt** → inserisci i path necessari per il tuo ambiente.
-- **users** → compila con i numeri utente che trovi in:
+- **users.txt** → compila con i numeri utente che trovi in:
   ```
   \Users\<user>\AppData\Local\Microsoft\Edge\User Data
   ```
