@@ -76,4 +76,3 @@ start main.bat
 - Questo progetto è in fase **sperimentale**.  
 - Non garantisce stabilità né compatibilità futura.  
 - Ogni utilizzo è sotto la tua responsabilità.
-```
